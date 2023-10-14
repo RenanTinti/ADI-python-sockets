@@ -1,8 +1,8 @@
 # ADI-python-sockets
 
-Renan Tinti    GU3015386
-Elias Castro   GU3015378
-Caio da Luz    GU3015432
+- Renan Tinti    GU3015386
+- Elias Castro   GU3015378
+- Caio da Luz    GU3015432
 
 Para utilizar o software, basta escolher uma aplicação, executar seu arquivo server.py e depois o client.py
 
