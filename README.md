@@ -4,7 +4,7 @@
 - Elias Castro   GU3015378
 - Caio da Luz    GU3015432
 
-Para utilizar o software, basta escolher uma aplicação, executar seu arquivo server.py e depois o client.py
+Para utilizar o software, basta escolher uma aplicação, executar seu arquivo server.py e depois o client.py em dois terminais diferentes
 
 - Exercícios 1, 3 e 4 -> multithread_chat
 - Exercício 5 -> sum_even_numbers
